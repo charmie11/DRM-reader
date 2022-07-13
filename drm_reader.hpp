@@ -1,5 +1,5 @@
 /**
- * @file drm_reader.h
+ * @file drm_reader.hpp
  * @brief DRM (Digital RoadMap database)の読み込み用ライブラリ
  * @author charmie11
 */
